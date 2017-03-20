@@ -3,3 +3,5 @@ c:\users\brent\documents\visual studio 2015\Projects\ConsoleApplication5\Console
 c:\users\brent\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
 c:\users\brent\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
 c:\users\brent\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\anxel\Downloads\Security-BR-master\Security-BR-master\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\anxel\Downloads\Security-BR-master\Security-BR-master\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
