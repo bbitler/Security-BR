@@ -15,7 +15,7 @@ namespace EnCryptDecrypt
             InitializeComponent();
         }
 
-        private void btnEncrypt_Click(object sender, EventArgs e)
+        public void btnEncrypt_Click(object sender, EventArgs e)
         {
             if (txtClearText.Text == "")
             {
@@ -33,7 +33,7 @@ namespace EnCryptDecrypt
             }
         }
 
-        private void btnDecrypt_Click(object sender, EventArgs e)
+        public void btnDecrypt_Click(object sender, EventArgs e)
         {
             string cipherText = txtCipherText.Text.Trim();
             string decryptedText = CryptorEngine.Decrypt(cipherText, true);

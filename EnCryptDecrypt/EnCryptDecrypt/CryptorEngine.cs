@@ -53,9 +53,9 @@ namespace EnCryptDecrypt
 
             if (useHashing)
             {
-                var md5hash = new MD5CryptoServiceProvider();
-                key_Array = md5hash.ComputeHash(Encoding.UTF8.GetBytes(key));
-                md5hash.Clear();
+                var md5_hash = new MD5CryptoServiceProvider();
+                key_Array = md5_hash.ComputeHash(Encoding.UTF8.GetBytes(key));
+                md5_hash.Clear();
             }
             else
             {
